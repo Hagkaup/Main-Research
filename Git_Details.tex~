@@ -24,18 +24,3 @@ git commit -m "these are the git details to familiarize myself with the system"
 Save the changes and push:
 
 git push
-
-
-# navigating through terminal or eshell:
-
-cd ..
-
-# the above command move up one directory
-
-cd ~/
-
-# the above command will move to my home folder
-
-mkdir
-
-# the above command makes a directory.
