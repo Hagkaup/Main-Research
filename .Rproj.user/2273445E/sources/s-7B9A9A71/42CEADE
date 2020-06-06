@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591408219156.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2938497641",
+    "id" : "42CEADE",
+    "lastKnownWriteTime" : 1591408130,
+    "last_content_update" : 1591408130,
+    "path" : "~/Main-Research/params.json",
+    "project_path" : "params.json",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "json"
+}

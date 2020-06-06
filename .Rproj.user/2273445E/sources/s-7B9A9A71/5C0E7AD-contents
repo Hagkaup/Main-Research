@@ -1,0 +1,25 @@
+\documentclass[11pt]{article}
+
+\title{\textbf{Notes on adaptive radiation and dispersal}}
+\author{Allan Edelsparre}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Adaptive radiation}
+
+Key to adaptive radiation is the notion of a monophyletic group with ancestral influence on adaptive traits. For example, the ancestral state should be flexible in terms of trais and that may open up for new niches or resources to be exploited (e.g. flexible stem model).
+
+There are binary radiations. Effectively, species pairs that repeatedly arise in similar environments ``replicate radiation''. This ancestral trait variation (flexibility) may be a behavioural predisposition as is proposed in examples of resource polymorphisms. Wilson and McLaughlin (2007) talks about the importance of looking at behavioural trait variation in charr systems where morphlogy is absent. This would work well with the Smith and Skulason (1996) model of evolution via resource polymorphism. There are charr examples as well as the classic three-spined stickleback species pair example. I have also added a paper that talks about anitipredator behaviour and migration in Atlantic salmon by felicity Huntingford. This paper may put a perspective on linking invasion with foraging behaviour/antipredator behaviour. 
+
+It may be possible to do a bit of a meta-analysis where I compare boldness scores/aggression scores in migratory systems. The lizard paper and the invasiveness mosquito fish/boldness may be the papers that show that systems that has more migratory propensity (and therefore prone to colonization/resource polymorphisms) are prone to be involved with adaptive radiations.
+
+It may be that replicate radiation (e.g. binary forms) is predominant in fishes. So, look up all kinds of morphotypes/ecotypes within salmonids and see what the literatures is saying about behaviour. I can imagine that one should look for examples in binary species pairs where behavioural variation is present in the ancestral form (but no morhology) and that this may be extremely prominent in pisces. The Bell et al. 2009 is a good paper for sumarizing the types of behaviours in fishes and whether those behaviours are repeatable. Dispersal has only been attached to a few species, common lizards (look it up), voles (look it up), mosquitofish (Sih et al. 2004), killifish (Fraser et al. 2001) and I demonstrated it in brook charr and in fruit flies.
+
+This is now June 2020 and I have just picked up working on this project again. There is an additional slack account that Mark Fitzpatrick and I added to our project.
+
+## Notes from Slack: The EdaSchooling behaviour.pdf is a key paper. It uses transgenisis to uncover the effect of Eda on Schooling behaviour in sticklebacks. Interestingly, this gene is also linking behaviour with lateral line and bony plates in sticklebacks which are important in adaptive radiation between parallel species pairs. As such, A cool case for the involvement of behaviour with a candidate gene in adaptive radiation in sticklebacks. Two papers; The first one takes a candidate gene approach to see whether schooling (sociability) is mediated by Eda. The authors use transgenic individuals to demonstrate causality of the gene. The cool thing is that the Eda is the main gene being transcribed to produce variation in lateral plates and spikes - key innovations for the adaptive radiation of this group (together with body shape). The authors believe that Eda's main function is lateral plates and spike number and that schooling arises because of pleiotropy. This could link personality (sociability) with adaptive radiation (biogeography) via a candidate gene that mediates the morphology/behaviour trade off. The second paper sums up the genetics of morphology and behaviour in sticklebacks. A gene from zebrafish mediates agression-boldness syndrome (we read that paper together a few years ago, but with no allelic variation). Lots of of agression-boldness papers in sticklebacks. I think we could build a really strong case around sticklebacks.
+
+\end{document}
