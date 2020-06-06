@@ -1,0 +1,8 @@
+title: Adaptive Radiation and Biogeography
+description: This is the main folder from which the paper Adaptive radiation and biogeography is developed
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
