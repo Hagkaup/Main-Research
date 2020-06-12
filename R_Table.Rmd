@@ -1,0 +1,21 @@
+---
+title: "Biogeography of Adaptive Radiation"
+output: html_document
+---
+
+It is easy to make a table using R and R markdown.
+
+
+```{r echo = FALSE, results = 'asis'}
+library(knitr)
+kable(mtcars[1:5, ], caption = "A knitr kable.")
+```
+
+Process <- c("Parallel adaptive radiation", "Increased Competition", "Parallel evolution", "Adaptive radiation")
+Geography <- c("Species pair", "Drosophila", "Arctic charr", "Sticklebacks")
+Behaviour <- c("Oviposition", "Adult dispersal", "Aggression/boldness", "Schooling")
+Gene <- c("foraging", "pgi", "npr-1", "Eda")
+Model <- c("Drosophila", "zebrafish", "Stickleback", "Great tits")
+Hypothesis <- c(1, 1, 2, 4)
+
+data <- data.frame("Process", "Geography", "Behaviour", "Gene", "Model", "Hypothesis")
